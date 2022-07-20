@@ -1,4 +1,6 @@
 # Solana VRF
-get randomized number on solana.
+get randomized number on solana. 
 
-powered by switchboard. 
+devnet: `6gwQp7cAiVxTzmqKaxroD2Maeaa7bixveTe44XM5zQ4k`
+
+powered by switchboard.
